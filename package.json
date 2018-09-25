@@ -1,0 +1,16 @@
+{
+  "name": "nodejs18",
+  "version": "1.0.0",
+  "description": "teste",
+  "main": "server.js",
+  "dependencies": {
+    "async": "^2.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
